@@ -1,0 +1,3 @@
+C:/Users/fangtian/Desktop/AI 辅助开发/Qoder-PK-CodeBudy/src/Round3/CodeBudy/build/CMakeFiles/TankGame.dir
+C:/Users/fangtian/Desktop/AI 辅助开发/Qoder-PK-CodeBudy/src/Round3/CodeBudy/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/fangtian/Desktop/AI 辅助开发/Qoder-PK-CodeBudy/src/Round3/CodeBudy/build/CMakeFiles/ZERO_CHECK.dir
